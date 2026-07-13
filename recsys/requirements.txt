@@ -1,0 +1,6 @@
+recbole
+codecarbon
+lightgbm
+xgboost
+"numpy<1.24"
+optuna
